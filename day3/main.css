@@ -1,0 +1,22 @@
+/* div{
+    font-size: xx-large;
+    color: gold;
+    background-color: red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.lower-div{
+    background: rgb(0, 0, 0);
+    height: 100px;
+}
+
+.lower-p{
+    color: yellow;
+} */
+
+
+*{
+    font: 400;
+    background-color: chocolate;
+    color: white;
+}
